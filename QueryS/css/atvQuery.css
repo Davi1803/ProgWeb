@@ -1,0 +1,19 @@
+body{
+    background-color: #9efffd;
+}
+
+.accordion-cabecalho{
+    background-color: #ffa5a5;
+    height: 50px;
+    border-style: dotted;
+    cursor: pointer;
+}
+
+.accordion-conteudo{
+    background-color: #a8abff;
+    height: 80px;
+}
+
+.accordion-conteudo{
+    display: none;
+}

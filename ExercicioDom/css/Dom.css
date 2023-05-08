@@ -1,0 +1,54 @@
+button{
+    border-radius: 8px;
+    border-color: #4a65ed;
+    width: 150px;
+    height: 30px;
+    background-color: #f8e3ff;
+    text-align: center;
+}
+
+.div1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.divAluno {
+    
+    display:none;
+    width: 1500px;
+    height: 700px;
+    background-color: #e3b6fc;
+    border: solid 1px;
+    border-color: #940ec9;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.divProf {
+    display:none;
+    width: 1500px;
+    height: 700px;
+    background-color: #b7d3eb;
+    border: solid 1px;
+    border-color: #4b89bf;
+    text-align: center;
+    border-radius: 25px;
+
+}
+
+div{
+    text-align: center;
+}
+
+/*FALA: EU SOFIA QUANDO ESTIVER PROGAMANDO IREI LEMBRAR QUANDO(ESTIVER FAZENDO REFERENCIA A UM ELEMENTO OU TAG DO HTML COLOCO APENAS O NOME DO ELEMENTO
+(BUTTON{
+	BLA BLA BLA;
+})
+QUANDO FOR PELO ID (#BUTTON{
+	
+})
+CLASSE(.NOME DA CLASSE)
+*/
