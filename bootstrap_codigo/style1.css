@@ -1,0 +1,37 @@
+.h3{
+    height:3.5rem;
+}
+
+.h25{
+    height: 25rem;
+}
+
+.bg-outracor{
+    background: antiquewhite;
+}
+
+.removemargin{
+    margin:0px;
+}
+
+
+.tamanhologo{
+    width: 4rem;
+    height: 3rem;
+}
+
+
+.espacoentrebotao{
+    margin-right: 1rem;
+}
+
+.row{
+    height: 200px;
+    background-color: aliceblue;
+}
+
+.col-3{
+    background-color: antiquewhite;
+    padding: 20px;
+    border: solid 1px black;
+}
